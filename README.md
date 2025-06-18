@@ -20,6 +20,8 @@ A landing page tem como objetivo atrair potenciais pacientes para consultas onli
 
 ![Screenshot](./assets/img/preview.png) 
 
+[👉 Clique aqui para visitar a página](https://landing-page-dra-clara-nutri.vercel.app)
+
 ## 🚀 Tecnologias Utilizadas
 
 - HTML5
